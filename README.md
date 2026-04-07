@@ -7,7 +7,7 @@ This is the first public-safe release of the **AD Groups Lookup Utility**, a GUI
 - Across multiple selectable domains
 - Using Global Catalog (3268) for cross-domain visibility
 
-<img width="730" height="802" alt="image" src="https://github.com/user-attachments/assets/6bf264bf-eb5b-4633-9dc6-ae29b39a36ef" />
+<img width="365" height="401" alt="image" src="https://github.com/user-attachments/assets/6bf264bf-eb5b-4633-9dc6-ae29b39a36ef" />
 
 
 ### 🔍 Features
